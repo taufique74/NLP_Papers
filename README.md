@@ -13,6 +13,7 @@
 - Recurrent Neural Network Regularization (Zaremba et el) [[pdf](https://arxiv.org/pdf/1409.2329.pdf)] [github] [summary]
 - Regularizing and Optimizing LSTM Language Models (S.Merity et al) [[pdf](https://arxiv.org/pdf/1708.02182.pdf)] [github] [summary]
 - A Theoretically Grounded Application of Dropout in Recurrent Neural Networks (Gal et al.) [pdf](https://arxiv.org/pdf/1512.05287.pdf)[github][summary]
+- FREEZEOUT: Accelerate Training By Progressively Freezing Layers [[pdf](https://arxiv.org/pdf/1706.04983.pdf)]
 
 ### Transformer based Language Models
 - Generalization Through Memorization: Nearest Neighbor Language Models (Khandelwal et al) (2020) [[pdf](https://arxiv.org/pdf/1911.00172v2.pdf)] [github] [summary]
