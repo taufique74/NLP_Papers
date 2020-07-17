@@ -24,4 +24,11 @@
 - Tying Word Vectors And Word Classifiers: A Loss Framework For Language Modeling (Inan et al) (2016) [[pdf](https://arxiv.org/pdf/1611.01462.pdf)] [github] [summary]
 - Using the Output Embedding to Improve Language Models (2017) (Press & Wolf) [[pdf](https://www.aclweb.org/anthology/E17-2025.pdf)] [github] [Summary]
 
+### Waiting to be titled and categorized
+- FRAGE: Frequency-Agnostic Word Representation https://arxiv.org/pdf/1809.06858.pdf
+- BREAKING  THESOFTMAXBOTTLENECK:A HIGH-RANKRNN LANGUAGEMODEL https://arxiv.org/pdf/1711.03953.pdf
+- MOGRIFIERLSTM https://arxiv.org/pdf/1909.01792.pdf
+- Pushing the bounds of dropout https://arxiv.org/pdf/1805.09208.pdf
+- On The State Of The Art Of Evaluation In Neural Language Models https://arxiv.org/pdf/1707.05589.pdf
+
 
