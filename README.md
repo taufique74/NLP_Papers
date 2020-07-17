@@ -30,5 +30,6 @@
 - MOGRIFIERLSTM https://arxiv.org/pdf/1909.01792.pdf
 - Pushing the bounds of dropout https://arxiv.org/pdf/1805.09208.pdf
 - On The State Of The Art Of Evaluation In Neural Language Models https://arxiv.org/pdf/1707.05589.pdf
+- Climbing towards NLU:On Meaning, Form, and Understanding in the Age of Data  https://www.aclweb.org/anthology/2020.acl-main.463.pdf
 
 
