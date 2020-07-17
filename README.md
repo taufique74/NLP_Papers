@@ -6,6 +6,7 @@
 - Improving Language Modeling using Densely Connected Recurrent Neural Networks (Godin et al) [[pdf](https://www.aclweb.org/anthology/W17-2622.pdf)] [github] [summary]
 - Grow and Prune Compact, Fast, and Accurate LSTMs (Dai et al) [[pdf](https://arxiv.org/pdf/1805.11797.pdf)] [github] [summary]
 - Improving Neural Language Models With a Continuous Cache (2016) (Grave et al) [[pdf](https://arxiv.org/pdf/1612.04426.pdf)] [github] [summary]
+- An Analysis of Neural Language Modeling at Multiple Scales (S.Merity et al) [[pdf](https://arxiv.org/pdf/1803.08240.pdf)] [github] [summary]
 
 
 ### Regularization Techniques  
